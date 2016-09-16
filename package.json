@@ -1,0 +1,14 @@
+{
+  "name": "nativeBaseSwiper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "native-base": "https://github.com/GeekyAnts/NativeBase#7cc2e351d8eb5d388dd55b549047265d7ab3a9ba",
+    "react": "15.3.1",
+    "react-native": "0.33.0",
+    "react-native-vector-icons": "^2.1.0"
+  }
+}
